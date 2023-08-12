@@ -127,7 +127,7 @@ During this phase, we leveraged the AllenNLP Predictor.
 This tool offers a range of classifiers, each associated with names and pronouns that are interconnected. 
 Afterwards, filtering rules were developed to process the output,these rules played a critical role in identifying the explicit noun associated with each pronoun.
 
-## requirnment 
+## requirement 
 
 [AllenNLP](https://storage.googleapis.com/allennlp-public-models/coref-spanbert-large-2021.03.10.tar.gz)
 
