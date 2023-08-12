@@ -5,7 +5,7 @@ The approach to addressing this requirement has been successfully accomplished a
 
 - Identifying the most important events.
 
-               {
+                  {
                   "celebrate":["birthday","birth","graduation","anniversary","success","news"],
 
                    "graduate":["collage","school","university"],
