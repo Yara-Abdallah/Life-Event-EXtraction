@@ -1,0 +1,159 @@
+dialog_id,events,subjects,subjects_no_resolution
+1_0,get divorce,Susan,Susan
+2,None,None,None
+3_1,got divorce,"Mari,george",they
+4_1,"married,passed exam",Mari,she
+4_3,had wedding,Mari,she
+5,None,None,None
+6_0,married,"Abigail,Abigail husband",we
+7_0,your wedding,Abigail,your
+7_1,married,"Abigail husband,Abigail","my husband,i"
+8_0,your wedding,Abigail,your
+9_2,None,None,None
+9_3,None,None,None
+10,None,None,None
+11,None,None,None
+12_1,celebrated birthday,Jhon,i
+13_0,celebrate news,Mark,my
+14_0,graduated,Jhon,you
+14_1,graduated University,Jhon,i
+15,None,None,None
+16_1,graduated,Abigail,you
+17_1,went to,Abigail,i
+18_0,graduated,Margaret son,your son
+19_1,passed exam,Pamela,she
+19_2,married,Pamela,she
+20,None,None,None
+21_2,married,"Abigail,Mark",we
+22_0,married,Mark,i
+22_2,invited wedding,Mark,my
+23_0,married,Margaret,you
+24_2,married,Abigail,i
+25_1,married,george,he
+26_1,married,"Abigail,george",they
+27_0,married,Frank,frank
+28_1,won prize,Mark,i
+29_0,won prize,Mark,i
+30_0,won prize,Abigail,i
+31_1,won prize,george,he
+32_0,won prize,Mark,i
+33,None,None,None
+34_1,won prize,Jhon,i
+35_1,won prize,Margaret,i
+36_0,meet,"Margaret,Abigail",we
+36_1,None,None,None
+37_0,your meeting,Mark,your
+37_1,be meeting,"Mark,Abigail",we
+38_0,get meeting,Mark,my
+38_1,None,None,None
+39_0,going meeting,george,i
+40_0,None,None,None
+40_2,have meeting,Jhon,i
+41_0,meet,Jhon,i
+42_1,meet,Mark,i
+43_1,meet,"Jhon,Mark",we
+44_1,meet,george,i
+45_1,meet,Mari,i
+46_0,meet,Jhon,i
+47_2,our meeting,"Mark,Mari",our
+48_2,meet,george,i
+49_1,started meeting,"george,Kriss",we
+50_0,hurt,Kriss,i
+51_0,None,None,None
+52_1,"hurts,got headache","george stomach,george","my stomach,i"
+53_1,hurt,Jhon,he
+54_0,had surgery,Mark,i
+54_1,None,None,None
+55_1,born,Kriss,i
+56_1,passed test,Mark,i
+57_0,passed test,george,you
+58,None,None,None
+59_2,passed interview,george,i
+60_0,are pregnant,Abigail,you
+61_1,accept invitation,george,i
+62_0,"accepted offers,come interview",mark,you
+63,None,None,None
+64_1,buy car,Wilson,i
+65_1,failed test,george,you
+66_2,have interview,Tina,i
+67,None,None,None
+68_0,None,None,None
+69_0,my interview,george,my
+70_0,pass interview,george,you
+71_0,have interview,Kriss,i
+72_1,married,Mark,i
+73_1,born,george daughter,my daughter
+74_0,interviewed,Kriss,me
+75_2,interviewed,Jhon,i
+76_0,married,Margaret,i
+77_0,engaged,"Margaret,matt","me,matt"
+78_0,engaged,"nathan,Kriss","nathan,i"
+79_2,divorced,tomas,tomas
+80_0,None,None,None
+80_1,engaged,"george,Mari","george,i"
+81_0,married,Jhon,you
+82_2,accepted university,Jhon,i
+83_2,passed exam,mario,mario
+84_1,signed deal,Mari,i
+85_1,"accepted offer,my job",Jhon,"I,my"
+86_1,accepted school,tom,tom
+87_0,accepted university,Margaret,i
+88_0,accepted program,Mark,i
+89_1,won awards,bati,bati
+90_2,celebrating graduation,george's family,we
+91_1,failed exam,Mari,i
+92_2,win award,Bati,i
+93_1,accepted offer,Tina,i
+94_2,passed exam,karla son,karla son
+95_1,celebrating birthday,mira,mira
+96_1,celebrating anniversary,George,i
+97_1,won awards,george sister,she
+98_1,accepted university,Jhon,i
+99_2,accepted college,tom,tom
+100_2,won lawsuit,tom,tom
+101_0,find job,mark,you
+101_1,started job,mark,i
+102_1,celebrate anniversary,"Jhon wife,Jhon","my wife,i"
+103_1,lost weight,Jhon,i
+104_0,celebrate birthday,Tina,i
+105_1,accepted job,Mark,i
+106_0,accepted offer,george,i
+107_2,bought house,mari,she
+108_0,start job,george,you
+108_1,start job,george,i
+109_1,broken leg,Mark,i
+110_0,accepted offer,Tom,i
+111_1,won award,mari,she
+112_0,accepted offer,Frank,i
+113_0,start job,Tomas,i
+114_0,None,None,None
+114_2,marked anniversary,dani,dani
+115_2,won prize,Kriss,i
+116_0,graduated,Tina,you
+116_1,defending thesis,Tina,my
+117_1,is relationship,tony,tony
+118_1,has exam,karolina son,karolina son
+119_0,got promotion,Tina,i
+120_2,got offer,Tomas,i
+121_1,am sick,Tina,i
+121_2,have fever,Tina,i
+122_0,have interview,Jhon,i
+123_2,have surgery,mira,mira
+124_0,make contract,Jim,jim
+125_1,started job,Kriss,i
+125_2,got job,ezabela,ezabela
+126_1,passed exam,mario,mario
+126_2,finish masters,kareem,his
+126_3,got exam,ezabela,her
+127_0,our wedding,"Bati husband,Bati",our
+128_0,my wedding,Kriss,my
+129_0,my birthday,Kriss,my
+130_0,my anniversary,Kriss,my
+131_2,moving into,bati,she
+132_1,moving to,Mark,i
+133_0,traveling to,george,i
+134_1,moving to,Kriss,i
+135_1,moving on,mira,she
+136_0,moving to,"luke,Tomas","luke, i"
+137_0,moving to,Mark,i
+138_2,died,Joy father,joy father
