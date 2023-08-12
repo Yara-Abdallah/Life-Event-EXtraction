@@ -69,12 +69,29 @@ The approach to addressing this requirement has been successfully accomplished a
 
 - Event extraction.
 
-1-  The first rule retrieves a pattern of the form [verb event].
-2-  The second rule retrieves a pattern of the form [verb event + object].
-3-  The third rule retrieves a pattern of the form [any verb + noun event].
-4-  The fourth rule retrieves a pattern of the form [any verb + adjective event].
-5-  The fifth rule retrieves a pattern of the form [possessive pronoun + noun event].
-6-  The sixth rule retrieves a pattern of the form [moving verb + preposition].
+1-  The first rule retrieves a pattern of the form.
+   
+     [verb event]
+
+2-  The second rule retrieves a pattern of the form.
+
+    [verb event + object].
+
+3-  The third rule retrieves a pattern of the form.
+    
+    [any verb + noun event].
+
+4-  The fourth rule retrieves a pattern of the form.
+    
+    [any verb + adjective event].
+
+5-  The fifth rule retrieves a pattern of the form.
+    
+    [possessive pronoun + noun event].
+
+6-  The sixth rule retrieves a pattern of the form.
+    
+    [moving verb + preposition].
 
 - Subject extraction.
 
@@ -95,6 +112,7 @@ The approach to addressing this requirement has been successfully accomplished a
     The Roman Studio interviewed me  →  [me]
 
 5-  the event's subject can be deduced from another dependent verb if it doesn't fit the aforementioned scenarios.
+   
     She passed her exam and married  →  [she] 
 
 6-  the subject is expressed by the possessive pronoun.
