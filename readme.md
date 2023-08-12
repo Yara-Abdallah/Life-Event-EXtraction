@@ -79,21 +79,26 @@ The approach to addressing this requirement has been successfully accomplished a
 - Subject extraction.
 
 1-  If the verb is in the active voice and the subject represents a specific person.
+
     Susan is going to get a divorce  →  [Susan]  
 
 2-  If the verb is in the passive voice and is accompanied by the word "by" the subject comes after "by" .
+
     The car was bought by Jhon → [Jhon]
 
 3-  If the event is in the passive voice and the sentence does not contain the word "by",should check if the subject is a person's name or a pronoun representing them.
+  
     When we got married in my hometown →  [we]
 
 4-  the subject might be indicated in the object pronoun.
+  
     The Roman Studio interviewed me  →  [me]
 
 5-  the event's subject can be deduced from another dependent verb if it doesn't fit the aforementioned scenarios.
     She passed her exam and married  →  [she] 
 
 6-  the subject is expressed by the possessive pronoun.
+  
     Today is my 11th wedding anniversary → [my] 
 
 (( Event and subject extraction are conducted using rules grounded in both part-of-speech tagging and dependency trees, utilizing the Spacy library ))
@@ -107,8 +112,10 @@ Afterwards, filtering rules were developed to process the output,these rules pla
 ## requirnment 
 
 [AllenNLP](https://storage.googleapis.com/allennlp-public-models/coref-spanbert-large-2021.03.10.tar.gz)
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 [Stanford NER](https://github.com/amiangshu/SentiSE/blob/master/edu/stanford/nlp/models/ner/english.all.3class.caseless.distsim.crf.ser.gz)
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 
